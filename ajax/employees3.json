@@ -1,0 +1,54 @@
+{
+	"employees": [
+		{	
+		    "name":"John",
+		    "age":31,
+		    "pets":[
+				{ "animal":"dog", "name":"Fido" },
+				{ "animal":"cat", "name":"Felix" },
+				{ "animal":"hamster", "name":"Lightning" }
+		    ]
+		},
+		{
+			"name":"Juan",
+		    "age":30,
+		    "pets":[
+	    		{ "animal":"dog", "name":"Manta" }
+		    ]
+		},
+		{
+			"name":"Ada",
+		    "age":46,
+		    "pets":[
+	    		{ "animal":"cat", "name":"Felix" }
+		    ]
+		},
+		{
+			"name":"Mary",
+		    "age":39,
+		    "pets":[
+	    		{ "animal":"dog", "name":"Simba" },
+	    		{ "animal":"fish", "name":"Nemo" },
+	    		{ "animal":"fish", "name":"Dory" }
+		    ]
+		},
+		{
+			"name":"Edgardo",
+		    "age":23,
+		    "pets":[
+	    		{ "animal":"dog", "name":"Lobito" }
+		    ]
+		},
+		{
+			"name":"Chrstian",
+		    "age":15,
+		    "pets":[
+	    		{ "animal":"cat", "name":"Musolini" },
+	    		{ "animal":"duck", "name":"Melvin" },
+				{ "animal":"mouse", "name":"Jerry" },
+				{ "animal":"horse", "name":"Carlos" },
+	    		{ "animal":"bunny", "name":"Kitty" }
+		    ]
+		}	
+    ]
+}

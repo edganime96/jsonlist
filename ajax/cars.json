@@ -1,0 +1,29 @@
+[
+	{
+	    "model":"Camaro",
+	    "year":2019,
+	    "performance":[
+	        { "pack":"LS", "model":"Convertible" },
+	        { "pack":"SS", "model":"Coupe" },
+	        { "pack":"ZL", "model":"Race" }
+	    ]
+	},
+	{
+	    "model":"Mustang",
+	    "year":2019,
+	     "performance":[
+	        { "pack":"GT", "model":"Convertible" },
+	        { "pack":"GT Premium", "model":"Coupe" },
+	        { "pack":"Cobra", "model":"Race" }
+	    ]
+	},
+	{
+	    "model":"Challenger",
+	    "year":2019,
+	    "performance":[
+	        { "pack":"RT", "model":"Coupe" },
+	        { "pack":"SRT", "model":"Coupe" },
+	        { "pack":"Hellcat", "model":"Coupe" }
+	    ]
+	}	
+]

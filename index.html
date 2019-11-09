@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>S03 - Empleados</title>
+	<script type="text/javascript" src="js/jquery-3.4.1.js"></script>
+	<script type="text/javascript" src="js/ejemplo01.js"></script>
+</head>
+<body>
+
+	<h1>Lista de empleados y Mascotas</h1>
+	<strong>Seleccione un empleado:</strong>
+	<select id="empleados" onchange="mostrarMascota();mostrarMascotaTable();mostrarInfoEmpleado();" ></select>
+	<br>
+	<strong>Seleccione una mascota:</strong>
+	<select id="mascotas"></select>
+
+	<br><br>
+	<b>Nombre de empleado:</b> <span id="sNombre"> </span>
+	<br> 
+	<b>Edad del empleado:</b> <span id="sEdad"> </span>
+	<br>
+	<b>Mascotas:</b>
+	<table id="tbMascotas" border="1" cellspacing="1">
+	</table>
+
+	<script type="text/javascript">
+		cargarEmpleados();
+	</script>
+
+</body>
+</html>
