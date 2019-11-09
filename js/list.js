@@ -1,5 +1,5 @@
 var employees;
-var urlGeneral = 'https://jucamayo.github.io/S08DW/ajax/';
+var urlGeneral = 'https://edganime96.github.io/jsonlist';
 
 function cargarEmpleados()
 {
