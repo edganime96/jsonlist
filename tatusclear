@@ -1,0 +1,23 @@
+[33mcommit 841a3e1ff02d81b3774225eb77784cab842bf88f[m[33m ([m[1;36mHEAD -> [m[1;32mgh-pages[m[33m, [m[1;31morigin/gh-pages[m[33m)[m
+Author: edganime96 <edgardojmarcanoc@gmail.com>
+Date:   Sat Nov 9 00:09:27 2019 -0500
+
+    separador <hr> agregado en HTML, url modificada en js
+
+[33mcommit 5a296294411e42a355d9cbcef1eca59cea92bb00[m
+Author: edganime96 <edgardojmarcanoc@gmail.com>
+Date:   Fri Nov 8 23:58:01 2019 -0500
+
+    script url corregido
+
+[33mcommit 2dfbbc31fd8fa1555d1ae63fc32269faae0bf8c9[m
+Author: edganime96 <edgardojmarcanoc@gmail.com>
+Date:   Fri Nov 8 23:51:05 2019 -0500
+
+    urlGeneral actualizada
+
+[33mcommit 25950cd5861b361a93566594202d522239ac6d5d[m
+Author: edganime96 <edgardojmarcanoc@gmail.com>
+Date:   Fri Nov 8 23:46:54 2019 -0500
+
+    initial commit
