@@ -3,7 +3,7 @@ var urlGeneral = 'https://edganime96.github.io/jsonlist';
 
 function cargarEmpleados()
 {
-	var url = urlGeneral + 'employees3.json';
+	var url = urlGeneral + '../ajax/employees3.json';
 	var $empleados = $("#empleados");
 	$empleados.find('option').remove().end();
 	$empleados.append($("<option />").val(-1).text('Seleccionar'));
